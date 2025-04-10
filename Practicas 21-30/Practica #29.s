@@ -4,7 +4,7 @@
  *  Autor: Ernesto Torres Pineda
  *  Fecha: 2025-04-10
  *  Descripción: Suma números pares e impares en un array predefinido
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/70d2Xq49DHMyM7KexG3qXYCVE]
  * ---------------------------------------------------------------------------------
  */
 
