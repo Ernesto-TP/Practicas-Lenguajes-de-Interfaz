@@ -4,7 +4,7 @@
  *  Autor: Ernesto Torres Pineda
  *  Fecha: 2025-04-10
  *  Descripción: Convierte mayúsculas a minúsculas en una cadena ingresada
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/8X04RgZy8C8eWD0R8XgDw3ZBB]
  * ---------------------------------------------------------------------------------
  */
 
