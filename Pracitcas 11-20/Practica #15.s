@@ -4,7 +4,7 @@
  *  Autor: Ernesto Torres Pineda
  *  Fecha: 2025-04-10
  *  Descripción: Invierte una cadena ingresada por el usuario
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/I0WHjL44iEJY7hOwM4iQvUozg]
  * ---------------------------------------------------------------------------------
  */
 .global main
