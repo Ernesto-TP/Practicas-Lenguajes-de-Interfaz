@@ -4,7 +4,7 @@
  *  Autor: Ernesto Torres Pineda
  *  Fecha: 2025-04-10
  *  Descripción: Encuentra correctamente el valor máximo en un array de 7 elementos.
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/tpwjyc1H5VqHBpr7xvX5SY3JC]
  * ---------------------------------------------------------------------------------
  */
 .global main
