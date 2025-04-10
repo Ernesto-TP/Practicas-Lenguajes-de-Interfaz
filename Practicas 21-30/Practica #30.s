@@ -6,7 +6,7 @@
  *  Descripción: Calcula el Mínimo Común Múltiplo (LCM) usando la relación
  *               LCM(a,b) = (a × b) / GCD(a,b). Incluye cálculo de GCD mediante
  *               el algoritmo de Euclides.
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/6pR58lNRRmva1Un3l10pb4Wdi]
  * ---------------------------------------------------------------------------------
  */
 
