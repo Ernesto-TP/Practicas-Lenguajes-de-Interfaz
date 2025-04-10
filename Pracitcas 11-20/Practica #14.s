@@ -6,7 +6,7 @@
  *  Descripción: Verificador de palíndromos en ARM64
  *               Compara una cadena hardcodeada para determinar si es palíndromo
  *               (se lee igual de izquierda a derecha y viceversa)
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/YEZY1VQrNKtcRAagQA6zkNiHT]
  * ---------------------------------------------------------------------------------
  */
 
