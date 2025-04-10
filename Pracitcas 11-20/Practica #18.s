@@ -4,7 +4,7 @@
  *  Autor: [Ernesto Torres Pineda]
  *  Fecha: [2025-04-08]
  *  Descripción: Suma de dos matrices 3x3 predefinidas.
- *  Demostración: [ASCIINEMA.ORG/.....]
+ *  Demostración: [ https://asciinema.org/a/CrJeF8eM10GEiFwjrcqg2xkSj]
  * ---------------------------------------------------------------------------------
  */
 .global main
