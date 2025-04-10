@@ -4,7 +4,7 @@
  *  Autor: Ernesto Torres Pineda
  *  Fecha: 2025-04-10
  *  Descripción: Cuenta la frecuencia de cada letra en una cadena (ignora mayúsculas/minúsculas)
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/UbCdaRPIyzeMApmwDKHl0WamV]
  * ---------------------------------------------------------------------------------
  */
 
