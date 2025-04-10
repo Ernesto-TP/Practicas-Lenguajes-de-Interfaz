@@ -4,7 +4,7 @@
  *  Autor: Ernesto Torres Pineda
  *  Fecha: 2025-04-10
  *  Descripción: Cuenta dígitos numéricos y letras en una cadena ingresada
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/5N7iflScZwwbm3xysyW8vmBQU]
  * ---------------------------------------------------------------------------------
  */
 
