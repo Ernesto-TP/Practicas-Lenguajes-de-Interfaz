@@ -5,7 +5,7 @@
  *  Fecha: 2025-04-10
  *  Descripción: Verificador de números primos en ARM64
  *               Determina si un número ingresado es primo mediante división trial
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [ https://asciinema.org/a/LHecQqUjR3bibhvQzhBZLPq3L]
  * ---------------------------------------------------------------------------------
  */
 
