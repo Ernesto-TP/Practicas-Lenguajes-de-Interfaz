@@ -4,7 +4,7 @@
  *  Autor: [Ernesto Torres Pineda]
  *  Fecha: [2025-04-08]
  *  Descripción: Suma dos arrays de 5 elementos y guarda el resultado en un tercero.
- *  Demostración: [ASCIINEMA.ORG/.....]
+ *  Demostración: [https://asciinema.org/a/xRpjT0jkkRF5i0uKKPg7Th3JY]
  * ---------------------------------------------------------------------------------
  */
 .global main
