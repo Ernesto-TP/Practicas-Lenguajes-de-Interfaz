@@ -5,7 +5,7 @@
  *  Fecha: 2025-04-10
  *  Descripción: Verifica si un número es de Armstrong (la suma de sus dígitos elevados
  *               al número de dígitos es igual al número mismo)
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/WasH8XdvVPN3A2Q45crP8CWd8]
  * ---------------------------------------------------------------------------------
  */
 .global main
