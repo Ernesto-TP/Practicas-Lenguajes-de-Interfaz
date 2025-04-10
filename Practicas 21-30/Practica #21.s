@@ -4,7 +4,7 @@
  *  Autor: [Ernesto Torres Pineda]
  *  Fecha: [2025-04-09]
  *  Descripción: Calcula el determinante de una matriz 2x2 ingresada por el usuario.
- *  Demostración: [ASCIINEMA.ORG/.....]
+ *  Demostración: [https://asciinema.org/a/bOIe5W1cZ652Yi5w3YZqW43Fe]
  * ---------------------------------------------------------------------------------
  */
 .global main
