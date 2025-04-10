@@ -5,7 +5,7 @@
  *  Fecha: 2025-04-10
  *  Descripción: Determina si un número es positivo, negativo o cero
  *               Lee un número entero ingresado por el usuario
- *  Demostración: [ASCIINEMA.ORG/XXXXXX]
+ *  Demostración: [https://asciinema.org/a/UHSM9wxmGMCSbkKdEIy61HQkZ]
  * ---------------------------------------------------------------------------------
  */
 .global main
