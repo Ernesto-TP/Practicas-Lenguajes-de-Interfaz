@@ -4,7 +4,7 @@
  *  Autor: [Ernesto Torres Pineda]
  *  Fecha: [2025-04-08]
  *  Descripción: Multiplica dos matrices 2x2 ingresadas por el usuario.
- *  Demostración: [ASCIINEMA.ORG/.....]
+ *  Demostración: [https://asciinema.org/a/2DevpYaLLlQaA0MXOv23Brh9p]
  * ---------------------------------------------------------------------------------
  */
 .global main
