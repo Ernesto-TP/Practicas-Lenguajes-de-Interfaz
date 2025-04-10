@@ -4,7 +4,7 @@
  *  Autor: [Ernesto Torres Pineda]
  *  Fecha: [2025-04-08]
  *  Descripción: Transpone una matriz 4x4 ingresada por el usuario.
- *  Demostración: [ASCIINEMA.ORG/.....]
+ *  Demostración: [https://asciinema.org/a/IQoI0CQ5brToqBNvKibN8ahnJ]
  * ---------------------------------------------------------------------------------
  */
 .global main
