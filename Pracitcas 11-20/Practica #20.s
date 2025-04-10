@@ -4,7 +4,7 @@
  *  Autor: [Ernesto Torres Pineda]
  *  Fecha: [2025-04-08]
  *  Descripción: Multiplica una matriz 2x2 por un escalar ingresado por el usuario.
- *  Demostración: [ASCIINEMA.ORG/.....]
+ *  Demostración: [https://asciinema.org/a/ZLLz8Q4zqqIdIg92tdi4MVPqC]
  * ---------------------------------------------------------------------------------
  */
 .global main
